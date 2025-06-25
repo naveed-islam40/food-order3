@@ -97,8 +97,8 @@ const ProductList = () => {
             {/* burgers  */}
             <div className="space-y-4">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                {burgers.map((burger) => (
-                  <ProductCard product={burger} />
+                {burgers.map((burger, index) => (
+                  <ProductCard product={burger} key={index} />
                 ))}
               </div>
             </div>
@@ -106,8 +106,8 @@ const ProductList = () => {
 
             <div className="space-y-4">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                {burgers.map((burger) => (
-                  <ProductCard product={burger} />
+                {burgers.map((burger, index) => (
+                  <ProductCard product={burger} key={index} />
                 ))}
               </div>
             </div>
@@ -127,8 +127,8 @@ const ProductList = () => {
               {/* Rice  */}
               <div className="space-y-4">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {Chief_Burgurs.map((burger) => (
-                    <ProductCard product={burger} />
+                  {Chief_Burgurs.map((burger, index) => (
+                    <ProductCard product={burger} key={index} />
                   ))}
                 </div>
               </div>
@@ -137,8 +137,8 @@ const ProductList = () => {
                 {/* burgers  */}
                 <div className="space-y-4">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {Chief_Burgurs.map((burger) => (
-                      <ProductCard product={burger} />
+                    {Chief_Burgurs.map((burger, index) => (
+                      <ProductCard product={burger} key={index} />
                     ))}
                   </div>
                 </div>
@@ -160,8 +160,8 @@ const ProductList = () => {
               {/* Rice  */}
               <div className="space-y-4">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {Chief_Burgurs.map((burger) => (
-                    <ProductCard product={burger} />
+                  {Chief_Burgurs.map((burger, index) => (
+                    <ProductCard product={burger} key={index} />
                   ))}
                 </div>
               </div>
@@ -170,8 +170,8 @@ const ProductList = () => {
                 {/* burgers  */}
                 <div className="space-y-4">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {Chief_Burgurs.map((burger) => (
-                      <ProductCard product={burger} />
+                    {Chief_Burgurs.map((burger, index) => (
+                      <ProductCard product={burger} key={index} />
                     ))}
                   </div>
                 </div>

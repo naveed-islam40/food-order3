@@ -12,11 +12,11 @@ export default function BlogContent() {
         </h1>
         <p className=" leading-relaxed text-lg font-normal">
           From intimate candlelit dinners to lively group gatherings,
-          Seraphina's provides impeccable service and an unforgettable dining
-          experience that caters to every occasion. From intimate candlelit
-          dinners to lively group gatherings, Seraphina's provides impeccable
-          service and an unforgettable dining experience that caters to every
-          occasion.
+          Seraphina&apos;s provides impeccable service and an unforgettable
+          dining experience that caters to every occasion. From intimate
+          candlelit dinners to lively group gatherings, Seraphina&apos;s
+          provides impeccable service and an unforgettable dining experience
+          that caters to every occasion.
         </p>
         <Link
           href="/food-delivery"
@@ -30,10 +30,10 @@ export default function BlogContent() {
       <div className="mb-8">
         <h2 className="text-4xl font-medium  mb-4">Testimonial subtitle 1</h2>
         <blockquote className="italic  mb-4 text-lg">
-          "Overall, we had a pleasant experience at The Spice Merchant. The food
-          was delicious, especially the Moroccan's Feast. The service was a
-          little slow at times, but the food was friendly and apologetic. We
-          would definitely give them another try."
+          &quot;Overall, we had a pleasant experience at The Spice Merchant. The
+          food was delicious, especially the Moroccan&apos;s Feast. The service
+          was a little slow at times, but the food was friendly and apologetic.
+          We would definitely give them another try.&quot;
         </blockquote>
       </div>
 
@@ -53,9 +53,9 @@ export default function BlogContent() {
                 <Link href="#" className="text-[#0049B3] underline">
                   Link inside the text.
                 </Link>{" "}
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit.
               </p>
             </div>
 
@@ -65,10 +65,11 @@ export default function BlogContent() {
               </h3>
               <p>
                 Supporting the text lorem ipsum dolor sit amet, consectetur
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit dinners to lively group gatherings, Seraphina's
-                provides impeccable service and an unforgettable.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit dinners to lively group gatherings,
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable.
               </p>
             </div>
 
@@ -78,9 +79,9 @@ export default function BlogContent() {
               </h3>
               <p>
                 Supporting the text lorem ipsum dolor sit amet, consectetur
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit.
               </p>
             </div>
 
@@ -90,9 +91,9 @@ export default function BlogContent() {
               </h3>
               <p>
                 Supporting the text lorem ipsum dolor sit amet, consectetur
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit.
               </p>
             </div>
 
@@ -123,13 +124,13 @@ export default function BlogContent() {
                 From intimate candlelit dinners to lively group gatherings.
               </li>
               <li>
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit dinners to lively group gatherings.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit dinners to lively group gatherings.
               </li>
               <li>
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
               </li>
             </ul>
           </div>
@@ -142,13 +143,13 @@ export default function BlogContent() {
                 From intimate candlelit dinners to lively group gatherings.
               </li>
               <li>
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion. From intimate
-                candlelit dinners to lively group gatherings.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
+                From intimate candlelit dinners to lively group gatherings.
               </li>
               <li>
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
               </li>
             </ol>
           </div>
@@ -170,15 +171,15 @@ export default function BlogContent() {
           <div className="sm:mb-8 py-5 sm:py-10">
             <p className=" leading-relaxed mb-6">
               From intimate candlelit dinners to lively group gatherings,
-              Seraphina's provides impeccable service and an unforgettable
+              Seraphina&apos;s provides impeccable service and an unforgettable
               dining experience that caters to every occasion. From intimate
-              candlelit dinners to lively group gatherings, Seraphina's provides
-              impeccable service and an unforgettable dining experience that
-              caters to every occasion.
+              candlelit dinners to lively group gatherings, Seraphina&apos;s
+              provides impeccable service and an unforgettable dining experience
+              that caters to every occasion.
             </p>
             <div className="flex justify-center">
               <Button className="bg-[#0049B3] hover:bg-[#0049B3] rounded-full text-white px-6 py-6">
-                Search our restaurant's location
+                Search our restaurant&apos;s location
               </Button>
             </div>
           </div>

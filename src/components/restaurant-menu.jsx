@@ -18,12 +18,12 @@ export default function RestaurantMenu() {
             <div>
               <p className="text-[20px] font-semibold mb-4">Small subtitle</p>
               <h1 className="text-[30px] sm:text-5xl font-medium  leading-tight mb-6 font-lexend">
-                Lorenzo's innovative menu at Seraphina's
+                Lorenzo&apos;s innovative menu at Seraphina&apos;s
               </h1>
               <p className="text-lg leading-relaxed mb-8">
                 From intimate candlelit dinners to lively group gatherings,
-                Seraphina's provides impeccable service and an unforgettable
-                dining experience that caters to every occasion.
+                Seraphina&apos;s provides impeccable service and an
+                unforgettable dining experience that caters to every occasion.
               </p>
             </div>
 

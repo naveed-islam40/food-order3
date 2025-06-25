@@ -26,8 +26,8 @@ export default function FoodDelivery() {
           </h1>
           <p className="mb-8 text-lg opacity-90 lg:max-w-2xl lg:mx-auto font-normal">
             Spread feel-good, taste-good holiday cheer! From Limited Edition
-            cans to gift cards, we've got festive and fizzy fun for everyone on
-            your list.
+            cans to gift cards, we&apos;ve got festive and fizzy fun for
+            everyone on your list.
           </p>
           <Button
             size="lg"
