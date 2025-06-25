@@ -56,7 +56,7 @@ const ProductList = () => {
   const activeSubCategory = useActiveSubcategory(allSubCategories, 100);
 
   return (
-    <div className={`my-10`}>
+    <div>
       <div className="my-10 space-y-10 max-w-7xl mx-auto">
         <div className="flex justify-center items-center flex-col gap-3  px-4 sm:px-8">
           <h1 className="hidden sm:block text-3xl sm:text-4xl md:text-6xl text-[#002254] font-normal font-lexend">
@@ -82,7 +82,7 @@ const ProductList = () => {
           </div>
         </div>
 
-        <div className="sm:px-8 space-y-4">
+        <div className="space-y-4">
           {/* body  card 1 */}
           <div
             className="space-y-4 bg-[#FEF0EB] rounded-[16px] px-6 py-6"
